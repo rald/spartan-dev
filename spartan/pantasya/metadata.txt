@@ -1,0 +1,4 @@
+title: pantasya
+gpubVersion: 1.0.0
+cover: pantasya.jpg
+index: index.gmi

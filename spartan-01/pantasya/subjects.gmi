@@ -1,0 +1,15 @@
+# Available Subjects
+
+## Programming
+* C Language
+* C++
+* Java
+* Python
+
+## Web Technologies
+* Hypertext Markup Language (HTML)
+* Cascading Style Sheets (CSS)
+* Javascript
+* PHP
+* MySql/MariaDB
+

@@ -1,0 +1,76 @@
+#King James Version
+
+
+##Old Testament
+
+=> Genesis/index.gmi Genesis
+=> Exodus/index.gmi Exodus
+=> Leviticus/index.gmi Leviticus
+=> Numbers/index.gmi Numbers
+=> Deuteronomy/index.gmi Deuteronomy
+=> Joshua/index.gmi Joshua
+=> Judges/index.gmi Judges
+=> Ruth/index.gmi Ruth
+=> 1_Samuel/index.gmi 1 Samuel
+=> 2_Samuel/index.gmi 2 Samuel
+=> 1_Kings/index.gmi 1 Kings
+=> 2_Kings/index.gmi 2 Kings
+=> 1_Chronicles/index.gmi 1 Chronicles
+=> 2_Chronicles/index.gmi 2 Chronicles
+=> Ezra/index.gmi Ezra
+=> Nehemiah/index.gmi Nehemiah
+=> Esther/index.gmi Esther
+=> Job/index.gmi Job
+=> Psalm/index.gmi Psalm
+=> Proverbs/index.gmi Proverbs
+=> Ecclesiastes/index.gmi Ecclesiastes
+=> Song_of_Solomon/index.gmi Song of Solomon
+=> Isaiah/index.gmi Isaiah
+=> Jeremiah/index.gmi Jeremiah
+=> Lamentations/index.gmi Lamentations
+=> Ezekiel/index.gmi Ezekiel
+=> Daniel/index.gmi Daniel
+=> Hosea/index.gmi Hosea
+=> Joel/index.gmi Joel
+=> Amos/index.gmi Amos
+=> Obadiah/index.gmi Obadiah
+=> Jonah/index.gmi Jonah
+=> Micah/index.gmi Micah
+=> Nahum/index.gmi Nahum
+=> Habakkuk/index.gmi Habakkuk
+=> Zephaniah/index.gmi Zephaniah
+=> Haggai/index.gmi Haggai
+=> Zechariah/index.gmi Zechariah
+=> Malachi/index.gmi Malachi
+
+
+
+##New Testament
+
+=> Matthew/index.gmi Matthew
+=> Mark/index.gmi Mark
+=> Luke/index.gmi Luke
+=> John/index.gmi John
+=> Acts/index.gmi Acts
+=> Romans/index.gmi Romans
+=> 1_Corinthians/index.gmi 1 Corinthians
+=> 2_Corinthians/index.gmi 2 Corinthians
+=> Galatians/index.gmi Galatians
+=> Ephesians/index.gmi Ephesians
+=> Philippians/index.gmi Philippians
+=> Colossians/index.gmi Colossians
+=> 1_Thessalonians/index.gmi 1 Thessalonians
+=> 2_Thessalonians/index.gmi 2 Thessalonians
+=> 1_Timothy/index.gmi 1 Timothy
+=> 2_Timothy/index.gmi 2 Timothy
+=> Titus/index.gmi Titus
+=> Philemon/index.gmi Philemon
+=> Hebrews/index.gmi Hebrews
+=> James/index.gmi James
+=> 1_Peter/index.gmi 1 Peter
+=> 2_Peter/index.gmi 2 Peter
+=> 1_John/index.gmi 1 John
+=> 2_John/index.gmi 2 John
+=> 3_John/index.gmi 3 John
+=> Jude/index.gmi Jude
+=> Revelation/index.gmi Revelation

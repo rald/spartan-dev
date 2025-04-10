@@ -1,0 +1,9 @@
+# Pantasya Online Computer School
+
+=> schedule.gmi Class Schedule
+=> subjects.gmi Available Subjects
+=> info.gmi Student Information
+
+=> resume Resume
+
+

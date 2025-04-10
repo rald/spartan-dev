@@ -1,0 +1,76 @@
+#King James Version
+
+
+##Old Testament
+
+=> Genesis/chapters.gmi Genesis
+=> Exodus/chapters.gmi Exodus
+=> Leviticus/chapters.gmi Leviticus
+=> Numbers/chapters.gmi Numbers
+=> Deuteronomy/chapters.gmi Deuteronomy
+=> Joshua/chapters.gmi Joshua
+=> Judges/chapters.gmi Judges
+=> Ruth/chapters.gmi Ruth
+=> 1_Samuel/chapters.gmi 1 Samuel
+=> 2_Samuel/chapters.gmi 2 Samuel
+=> 1_Kings/chapters.gmi 1 Kings
+=> 2_Kings/chapters.gmi 2 Kings
+=> 1_Chronicles/chapters.gmi 1 Chronicles
+=> 2_Chronicles/chapters.gmi 2 Chronicles
+=> Ezra/chapters.gmi Ezra
+=> Nehemiah/chapters.gmi Nehemiah
+=> Esther/chapters.gmi Esther
+=> Job/chapters.gmi Job
+=> Psalm/chapters.gmi Psalm
+=> Proverbs/chapters.gmi Proverbs
+=> Ecclesiastes/chapters.gmi Ecclesiastes
+=> Song_of_Solomon/chapters.gmi Song of Solomon
+=> Isaiah/chapters.gmi Isaiah
+=> Jeremiah/chapters.gmi Jeremiah
+=> Lamentations/chapters.gmi Lamentations
+=> Ezekiel/chapters.gmi Ezekiel
+=> Daniel/chapters.gmi Daniel
+=> Hosea/chapters.gmi Hosea
+=> Joel/chapters.gmi Joel
+=> Amos/chapters.gmi Amos
+=> Obadiah/chapters.gmi Obadiah
+=> Jonah/chapters.gmi Jonah
+=> Micah/chapters.gmi Micah
+=> Nahum/chapters.gmi Nahum
+=> Habakkuk/chapters.gmi Habakkuk
+=> Zephaniah/chapters.gmi Zephaniah
+=> Haggai/chapters.gmi Haggai
+=> Zechariah/chapters.gmi Zechariah
+=> Malachi/chapters.gmi Malachi
+
+
+
+##New Testament
+
+=> Matthew/chapters.gmi Matthew
+=> Mark/chapters.gmi Mark
+=> Luke/chapters.gmi Luke
+=> John/chapters.gmi John
+=> Acts/chapters.gmi Acts
+=> Romans/chapters.gmi Romans
+=> 1_Corinthians/chapters.gmi 1 Corinthians
+=> 2_Corinthians/chapters.gmi 2 Corinthians
+=> Galatians/chapters.gmi Galatians
+=> Ephesians/chapters.gmi Ephesians
+=> Philippians/chapters.gmi Philippians
+=> Colossians/chapters.gmi Colossians
+=> 1_Thessalonians/chapters.gmi 1 Thessalonians
+=> 2_Thessalonians/chapters.gmi 2 Thessalonians
+=> 1_Timothy/chapters.gmi 1 Timothy
+=> 2_Timothy/chapters.gmi 2 Timothy
+=> Titus/chapters.gmi Titus
+=> Philemon/chapters.gmi Philemon
+=> Hebrews/chapters.gmi Hebrews
+=> James/chapters.gmi James
+=> 1_Peter/chapters.gmi 1 Peter
+=> 2_Peter/chapters.gmi 2 Peter
+=> 1_John/chapters.gmi 1 John
+=> 2_John/chapters.gmi 2 John
+=> 3_John/chapters.gmi 3 John
+=> Jude/chapters.gmi Jude
+=> Revelation/chapters.gmi Revelation
